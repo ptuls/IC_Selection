@@ -1,0 +1,2 @@
+# IC_Selection
+Code for model selection via five information criteria: Akaike's information criterion (AIC), the corrected AIC for finite length observations (AICc), Bayesian information criterion (BIC), two-stage Minimum Description Length (MDL) and normalized Minimum Description Length (nMDL). The dictionaries are the Frequency (Fourier) dictionary and the Frequency + Spike dictionary. Model selection is performed with Orthogonal Matching Pursuit or the simple Threshold method.
